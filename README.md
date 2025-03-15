@@ -5,7 +5,7 @@
 ### Links
 
 - Solution : [Frontend Mentor solution](https://www.frontendmentor.io/solutions/fylo-landing-page-htmlcss-oAuymkmFmv)
-- Live Site : [Stats-Preview](https://fylo-landing-page-fe.netlify.app/)
+- Live Site : [Fylo-landing-page](https://fylo-landing-page-fe.netlify.app/)
 
 - ## Author
 
